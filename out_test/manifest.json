@@ -1,0 +1,103 @@
+{
+  "date": "2025-09-30",
+  "aspect_ratio": "9:16",
+  "seconds": 8,
+  "jobs": [
+    {
+      "id": "veo_aries_1759310167",
+      "sign": "Aries",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_aries_1759310167.mp4",
+      "prompt_file": "prompts/Aries.txt"
+    },
+    {
+      "id": "veo_taurus_1759310167",
+      "sign": "Taurus",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_taurus_1759310167.mp4",
+      "prompt_file": "prompts/Taurus.txt"
+    },
+    {
+      "id": "veo_gemini_1759310167",
+      "sign": "Gemini",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_gemini_1759310167.mp4",
+      "prompt_file": "prompts/Gemini.txt"
+    },
+    {
+      "id": "veo_cancer_1759310167",
+      "sign": "Cancer",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_cancer_1759310167.mp4",
+      "prompt_file": "prompts/Cancer.txt"
+    },
+    {
+      "id": "veo_leo_1759310167",
+      "sign": "Leo",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_leo_1759310167.mp4",
+      "prompt_file": "prompts/Leo.txt"
+    },
+    {
+      "id": "veo_virgo_1759310167",
+      "sign": "Virgo",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_virgo_1759310167.mp4",
+      "prompt_file": "prompts/Virgo.txt"
+    },
+    {
+      "id": "veo_libra_1759310167",
+      "sign": "Libra",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_libra_1759310167.mp4",
+      "prompt_file": "prompts/Libra.txt"
+    },
+    {
+      "id": "veo_scorpio_1759310167",
+      "sign": "Scorpio",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_scorpio_1759310167.mp4",
+      "prompt_file": "prompts/Scorpio.txt"
+    },
+    {
+      "id": "veo_sagittarius_1759310167",
+      "sign": "Sagittarius",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_sagittarius_1759310167.mp4",
+      "prompt_file": "prompts/Sagittarius.txt"
+    },
+    {
+      "id": "veo_capricorn_1759310167",
+      "sign": "Capricorn",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_capricorn_1759310167.mp4",
+      "prompt_file": "prompts/Capricorn.txt"
+    },
+    {
+      "id": "veo_aquarius_1759310167",
+      "sign": "Aquarius",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_aquarius_1759310167.mp4",
+      "prompt_file": "prompts/Aquarius.txt"
+    },
+    {
+      "id": "veo_pisces_1759310167",
+      "sign": "Pisces",
+      "status": "done",
+      "style": "whimsical_astrology",
+      "video_path": "out_test/renders/veo_pisces_1759310167.mp4",
+      "prompt_file": "prompts/Pisces.txt"
+    }
+  ]
+}
