@@ -4,3 +4,11 @@ outputs/
 .env
 token.json
 client_secret.json
+reference/
+data/
+
+# Output directories
+out/
+out_test/
+out_real/
+out_premium/
